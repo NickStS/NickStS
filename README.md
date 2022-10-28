@@ -22,3 +22,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickStS&theme=dark&layout=compact&langs_count=8&hide=php"/>
 </a>
 </center>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<center>
+<a href="https://www.linkedin.com/in/nick-startsev-0528b4220/"><img src="https://img.shields.io/badge/-Pavel%20Korolenko-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/danger_videograph/"><img src="https://img.shields.io/badge/-@kopasxa_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+</center>
