@@ -26,7 +26,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NickStS&show_icons=true&theme=dark&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickStS&theme=dark&layout=compact&langs_count=8&hide=php"/>
 </a>
-<a href="https://www.youtube.com/channel/UCgFxOEan9KvH-u13iJRV4PA"><img src="https://img.shields.io/badge/-YouTube-05122A?style=flat&logo=YouTube&logoColor=f00905"/></a>
 </center>
 
 ### 🤝🏻 &nbsp;Connect with Me
@@ -34,4 +33,5 @@
 <center>
 <a href="https://www.linkedin.com/in/nick-startsev-0528b4220/"><img src="https://img.shields.io/badge/-Nick%20Startsev-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/danger_videograph/"><img src="https://img.shields.io/badge/-@danger_videograph_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.youtube.com/channel/UCgFxOEan9KvH-u13iJRV4PA"><img src="https://img.shields.io/badge/-YouTube-05122A?style=flat&logo=YouTube&logoColor=f00905"/></a>
 </center>
