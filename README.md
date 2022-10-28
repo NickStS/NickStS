@@ -26,6 +26,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NickStS&show_icons=true&theme=dark&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickStS&theme=dark&layout=compact&langs_count=8&hide=php"/>
 </a>
+<a href="https://www.youtube.com/channel/UCgFxOEan9KvH-u13iJRV4PA"><img src="https://img.shields.io/badge/-YouTube-05122A?style=flat&logo=YouTube&logoColor=f00905"/></a>
 </center>
 
 ### 🤝🏻 &nbsp;Connect with Me
