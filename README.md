@@ -5,7 +5,7 @@
 💡 I like to learn new technologies and develop software solutions \
 🎓 I am currently studying programming in Kyiv \
 🚁 Drone pilot \
-📷 My hobbies are flying drones, taking photos and videos, as well as traveling \
+📷 My hobbies are flying drones, taking photos and videos, as well as traveling
 
 
 ### 🛠 &nbsp;Tech Stack
