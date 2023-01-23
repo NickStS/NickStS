@@ -34,7 +34,7 @@
 
 <center>
 <a href="https://www.linkedin.com/in/nick-startsev-0528b4220/"><img src="https://img.shields.io/badge/-Nick%20Startsev-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/danger_videograph/"><img src="https://img.shields.io/badge/-@danger_videograph_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.youtube.com/channel/UCgFxOEan9KvH-u13iJRV4PA"><img src="https://img.shields.io/badge/-@danger_videograph_-0f0f0f?style=flat&logo=Instagram"/></a>
+<a href="https://www.instagram.com/danger_videograph/"><img src="https://img.shields.io/badge/-@danger_videograph_-0f0f0f?style=flat&logo=Instagram"/></a>
+<a href="https://www.youtube.com/channel/UCgFxOEan9KvH-u13iJRV4PA"><img src="https://img.shields.io/badge/-YouTube-0f0f0f?style=flat&logo=YouTube&logoColor=f00905"/></a>
 <a href="https://www.shutterstock.com/ru/g/Nick_StS"><img src="https://img.shields.io/badge/-Shutterstock-f00905?style=flat&logo=shutterstock&logoColor=ffffff"/></a>
 </center>
