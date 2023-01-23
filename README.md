@@ -30,7 +30,7 @@
 </a>
 </center>
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Links
 
 <center>
 <a href="https://www.linkedin.com/in/nick-startsev-0528b4220/"><img src="https://img.shields.io/badge/-Nick%20Startsev-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
