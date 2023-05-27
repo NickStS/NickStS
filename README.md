@@ -25,8 +25,9 @@
 
 <center>
   <a href="https://github.com/NickStS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NickStS&show_icons=true&theme=dark&show_icons=true&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickStS&theme=dark&layout=compact&langs_count=8&hide=php"/>
-</a>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NickStS&show_icons=true&theme=dark&show_icons=true&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickStS&theme=dark&layout=compact&langs_count=8&hide=php"/>
+  </a>
 </center>
 
 ### 🤝🏻 &nbsp;Links
