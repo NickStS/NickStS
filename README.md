@@ -21,7 +21,7 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![YouTube](https://img.shields.io/badge/-YouTube-05122A?style=flat&logo=YouTube&logoColor=f00905)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytic
+### ⚙️ &nbsp;GitHub Analytics
 
 <center>
   <a href="https://github.com/NickStS">
