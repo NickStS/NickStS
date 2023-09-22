@@ -25,7 +25,7 @@
 
 <center>
   <a href="https://github.com/NickStS">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NickStS&show_icons=true&theme=dark&show_icons=true&include_all_commits=true&count_private=true"/>
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickStS)](https://github.com/NickStS/github-readme-stats)
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickStS&theme=dark&layout=compact&langs_count=8&hide=php"/>
   </a>
 </center>
