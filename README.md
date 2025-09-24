@@ -43,3 +43,11 @@
 <a href="https://www.youtube.com/channel/UCgFxOEan9KvH-u13iJRV4PA"><img src="https://img.shields.io/badge/-YouTube-0f0f0f?style=flat&logo=YouTube&logoColor=f00905"/></a>
 <a href="https://www.shutterstock.com/ru/g/Nick_StS"><img src="https://img.shields.io/badge/-Shutterstock-f00905?style=flat&logo=shutterstock&logoColor=ffffff"/></a>
 </center>
+
+
+### 💸 &nbsp;Donations
+![BTC](https://img.shields.io/badge/btc-1Q5jX5Smo1xsSH9fQSno8jCycg7xM8qYJ9-yellow)&nbsp;
+![TRC-20](https://img.shields.io/badge/trc20-TLPAJeu7XvqMyryEjSCV5C2uQ3u838qr2D-green)&nbsp;
+![BEP-20](https://img.shields.io/badge/bep20-0xb061ce906a0dc506092c0bb092fbe428c846c934-orange)&nbsp;
+![ERC-20](https://img.shields.io/badge/erc20-0xb061ce906a0dc506092c0bb092fbe428c846c934-black)&nbsp;
+![TON](https://img.shields.io/badge/TON-UQBOeF7dsf19cI9kMSj7zhRAVtNz7mTNoZDhcaKLaWxZixrT-blue)&nbsp;
