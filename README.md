@@ -68,23 +68,22 @@
 ### 🤝🏻 &nbsp;Links
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mykola-startsev-0528b4220/">
-    <img src="https://img.shields.io/badge/-Mykola%20Startsev-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/danger_videograph/">
-    <img src="https://img.shields.io/badge/-@danger__videograph-0f0f0f?style=flat&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCgFxOEan9KvH-u13iJRV4PA">
-    <img src="https://img.shields.io/badge/-YouTube-0f0f0f?style=flat&logo=youtube&logoColor=f00905"/>
-  </a>
-  <a href="https://www.shutterstock.com/ru/g/Nick_StS">
-    <img src="https://img.shields.io/badge/-Shutterstock-f00905?style=flat&logo=shutterstock&logoColor=white"/>
-  </a>
   <a href="https://nicksts.github.io/my-resume/">
     <img src="https://img.shields.io/badge/-Resume-0f0f0f?style=flat"/>
   </a>
+  <a href="https://www.linkedin.com/in/mykola-startsev-0528b4220/">
+    <img src="https://img.shields.io/badge/-Mykola%20Startsev-0077B5?style=flat&amp;logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0NDggNTEyIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTAwLjI4IDQ0OEg3LjRWMTQ4LjloOTIuODh6bS00Ni40OS0zNDAuN0MyNC4wOSAxMDcuMyAwIDgzLjIgMCA1My42QTUzLjYgNTMuNiAwIDAgMSA1My42IDBjMjkuNyAwIDUzLjggMjQuMSA1My44IDUzLjYgMCAyOS42LTI0LjEgNTMuNy01My43IDUzLjd6TTQ0Ny45IDQ0OGgtOTIuNjhWMzAyLjRjMC0zNC43LS43LTc5LjItNDguMjktNzkuMi00OC4yOSAwLTU1LjY5IDM3LjctNTUuNjkgNzYuN1Y0NDhoLTkyLjc4VjE0OC45aDg5LjA4djQwLjhoMS4zYzEyLjQtMjMuNSA0Mi42OS00OC4zIDg3Ljg4LTQ4LjMgOTQgMCAxMTEuMjggNjEuOSAxMTEuMjggMTQyLjNWNDQ4eiIvPjwvc3ZnPg=="/>
+  </a>
+  <a href="https://www.instagram.com/danger_videograph/">
+    <img src="https://img.shields.io/badge/-@danger__videograph-0f0f0f?style=flat&amp;logo=instagram&amp;logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCgFxOEan9KvH-u13iJRV4PA">
+    <img src="https://img.shields.io/badge/-YouTube-0f0f0f?style=flat&amp;logo=youtube&amp;logoColor=f00905"/>
+  </a>
+  <a href="https://www.shutterstock.com/ru/g/Nick_StS">
+    <img src="https://img.shields.io/badge/-Shutterstock-f00905?style=flat&amp;logo=shutterstock&amp;logoColor=white"/>
+  </a>
 </p>
-
 
 ### 💸 &nbsp;Donations
 ![BTC](https://img.shields.io/badge/btc-1Q5jX5Smo1xsSH9fQSno8jCycg7xM8qYJ9-yellow)&nbsp;
