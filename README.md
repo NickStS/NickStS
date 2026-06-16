@@ -67,12 +67,23 @@
 
 ### 🤝🏻 &nbsp;Links
 
-<center>
-<a href="https://www.linkedin.com/in/mykola-startsev-0528b4220/"><img src="https://img.shields.io/badge/-Mykola%20Startsev-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/danger_videograph/"><img src="https://img.shields.io/badge/-@danger_videograph_-0f0f0f?style=flat&logo=Instagram"/></a>
-<a href="https://www.youtube.com/channel/UCgFxOEan9KvH-u13iJRV4PA"><img src="https://img.shields.io/badge/-YouTube-0f0f0f?style=flat&logo=YouTube&logoColor=f00905"/></a>
-<a href="https://www.shutterstock.com/ru/g/Nick_StS"><img src="https://img.shields.io/badge/-Shutterstock-f00905?style=flat&logo=shutterstock&logoColor=ffffff"/></a>
-</center>
+<p align="left">
+  <a href="https://nicksts.github.io/my-resume/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-05122A?style=flat-square&logo=githubpages&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mykola-startsev-0528b4220/" target="_blank">
+    <img src="https://img.shields.io/badge/Mykola_Startsev-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/danger_videograph/" target="_blank">
+    <img src="https://img.shields.io/badge/@danger__videograph-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCgFxOEan9KvH-u13iJRV4PA" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://www.shutterstock.com/ru/g/Nick_StS" target="_blank">
+    <img src="https://img.shields.io/badge/Shutterstock-EE2B24?style=flat-square&logo=shutterstock&logoColor=white"/>
+  </a>
+</p>
 
 
 ### 💸 &nbsp;Donations
