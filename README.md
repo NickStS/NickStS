@@ -37,11 +37,11 @@
   <img src="https://img.shields.io/badge/Git-05122A?style=flat-square&logo=git"/>
   <img src="https://img.shields.io/badge/GitHub-05122A?style=flat-square&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-05122A?style=flat-square&logo=visualstudiocode&logoColor=007ACC"/>
-  <img src="https://img.shields.io/badge/Visual_Studio-05122A?style=flat-square&logo=dotnet&logoColor=9C6ED0"/>
+  <img src="https://flat.badgen.net/badge/Visual%20Studio/%E2%80%8B/05122A?icon=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%40v2.17.0%2Ficons%2Fvisualstudio%2Fvisualstudio-original.svg&amp;labelColor=05122A"/>
 
   <img src="https://img.shields.io/badge/Figma-05122A?style=flat-square&logo=figma"/>
-  <img src="https://img.shields.io/badge/Photoshop-05122A?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Premiere_Pro-05122A?style=flat-square"/>
+  <img src="https://flat.badgen.net/badge/Photoshop/%E2%80%8B/05122A?icon=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%40v2.17.0%2Ficons%2Fphotoshop%2Fphotoshop-original.svg&amp;labelColor=05122A"/>
+  <img src="https://flat.badgen.net/badge/Premiere%20Pro/%E2%80%8B/05122A?icon=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%40v2.17.0%2Ficons%2Fpremierepro%2Fpremierepro-original.svg&amp;labelColor=05122A"/>
   <img src="https://img.shields.io/badge/Unreal_Engine-05122A?style=flat-square&logo=unrealengine&logoColor=white"/>
 
   <img src="https://img.shields.io/badge/Minecraft_Forge-05122A?style=flat-square&logo=curseforge"/>
@@ -50,7 +50,7 @@
   <img src="https://img.shields.io/badge/3ds_Max-05122A?style=flat-square&logo=autodesk"/>
   <img src="https://img.shields.io/badge/Cinema_4D-05122A?style=flat-square&logo=cinema4d&logoColor=white"/>
   <img src="https://img.shields.io/badge/Corona_Renderer-05122A?style=flat-square&logo=coronarenderer"/>
-  <img src="https://img.shields.io/badge/Redshift-05122A?style=flat-square"/>
+  <img src="https://flat.badgen.net/badge/Redshift/%E2%80%8B/05122A?icon=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F0%2F05%2FRedshift_Logo.svg&amp;labelColor=05122A"/>
 </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
