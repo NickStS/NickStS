@@ -12,20 +12,35 @@
 ### 🛠 &nbsp;Tech Stack
 
 <p align="left">
-  <img height="38" src="https://skillicons.dev/icons?i=python,kotlin,java,cs,rust,js,html,css,androidstudio,tensorflow,opencv,flask,fastapi,mongodb,sqlite,docker,git,github,vscode,visualstudio,figma,ps,pr,unreal&perline=24" />
+  <img src="https://img.shields.io/badge/Python-05122A?style=flat-square&logo=python"/>
+  <img src="https://img.shields.io/badge/Kotlin-05122A?style=flat-square&logo=kotlin"/>
+  <img src="https://img.shields.io/badge/Java-05122A?style=flat-square&logo=openjdk"/>
+  <img src="https://img.shields.io/badge/C%23-05122A?style=flat-square&logo=csharp"/>
+  <img src="https://img.shields.io/badge/JavaScript-05122A?style=flat-square&logo=javascript"/>
+  <img src="https://img.shields.io/badge/HTML5-05122A?style=flat-square&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS3-05122A?style=flat-square&logo=css3"/>
+  <img src="https://img.shields.io/badge/Android-05122A?style=flat-square&logo=android"/>
+  <img src="https://img.shields.io/badge/YOLOv8-05122A?style=flat-square&logo=ultralytics"/>
+  <img src="https://img.shields.io/badge/TensorFlow_Lite-05122A?style=flat-square&logo=tensorflow"/>
+  <img src="https://img.shields.io/badge/OpenCV-05122A?style=flat-square&logo=opencv"/>
+  <img src="https://img.shields.io/badge/DJI_SDK-05122A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Mapbox-05122A?style=flat-square&logo=mapbox"/>
   <br>
-  <img src="https://img.shields.io/badge/YOLOv8-05122A?style=flat&logo=ultralytics"/>
-  <img src="https://img.shields.io/badge/TensorFlow_Lite-05122A?style=flat&logo=tensorflow"/>
-  <img src="https://img.shields.io/badge/DJI_Mobile_SDK-05122A?style=flat"/>
-  <img src="https://img.shields.io/badge/Mapbox-05122A?style=flat&logo=mapbox"/>
-  <img src="https://img.shields.io/badge/MVVM-05122A?style=flat"/>
-  <img src="https://img.shields.io/badge/Minecraft_Forge-05122A?style=flat"/>
-  <img src="https://img.shields.io/badge/GeckoLib-05122A?style=flat"/>
-  <img src="https://img.shields.io/badge/WebODM-05122A?style=flat"/>
-  <img src="https://img.shields.io/badge/3ds_Max-05122A?style=flat&logo=autodesk"/>
-  <img src="https://img.shields.io/badge/Cinema_4D-05122A?style=flat"/>
-  <img src="https://img.shields.io/badge/Corona_Renderer-05122A?style=flat"/>
-  <img src="https://img.shields.io/badge/Redshift-05122A?style=flat"/>
+  <img src="https://img.shields.io/badge/MongoDB-05122A?style=flat-square&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/SQLite-05122A?style=flat-square&logo=sqlite"/>
+  <img src="https://img.shields.io/badge/Docker-05122A?style=flat-square&logo=docker"/>
+  <img src="https://img.shields.io/badge/Git-05122A?style=flat-square&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-05122A?style=flat-square&logo=github"/>
+  <img src="https://img.shields.io/badge/VS_Code-05122A?style=flat-square&logo=visualstudiocode"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-05122A?style=flat-square&logo=visualstudio"/>
+  <img src="https://img.shields.io/badge/Figma-05122A?style=flat-square&logo=figma"/>
+  <img src="https://img.shields.io/badge/Photoshop-05122A?style=flat-square&logo=adobephotoshop"/>
+  <img src="https://img.shields.io/badge/Premiere_Pro-05122A?style=flat-square&logo=adobepremierepro"/>
+  <img src="https://img.shields.io/badge/Unreal_Engine-05122A?style=flat-square&logo=unrealengine"/>
+  <img src="https://img.shields.io/badge/Minecraft_Forge-05122A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/WebODM-05122A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/3ds_Max-05122A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Corona_Renderer-05122A?style=flat-square"/>
 </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
