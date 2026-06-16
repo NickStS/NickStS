@@ -2,10 +2,11 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 I like to learn new technologies and develop software solutions \
-🎓 I am currently studying programming in Kyiv \
-🚁 Drone pilot \
-📷 My hobbies are flying drones, taking photos and videos, as well as traveling
+💡 I enjoy exploring new technologies and building practical digital solutions \
+🎓 Bachelor's degree in Software Engineering \
+🚁 UAV pilot and drone instructor \
+🤖 Interested in AI, computer vision and drone technologies \
+📷 I enjoy aerial photography, videography and traveling
 
 
 ### 🛠 &nbsp;Tech Stack
