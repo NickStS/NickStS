@@ -68,9 +68,6 @@
 ### 🤝🏻 &nbsp;Links
 
 <p align="left">
-  <a href="https://nicksts.github.io/my-resume/">
-    <img src="https://img.shields.io/badge/-Portfolio-0f0f0f?style=flat&logo=githubpages&logoColor=white"/>
-  </a>
   <a href="https://www.linkedin.com/in/mykola-startsev-0528b4220/">
     <img src="https://img.shields.io/badge/-Mykola%20Startsev-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
@@ -82,6 +79,9 @@
   </a>
   <a href="https://www.shutterstock.com/ru/g/Nick_StS">
     <img src="https://img.shields.io/badge/-Shutterstock-f00905?style=flat&logo=shutterstock&logoColor=white"/>
+  </a>
+  <a href="https://nicksts.github.io/my-resume/">
+    <img src="https://img.shields.io/badge/-Resume-0f0f0f?style=flat"/>
   </a>
 </p>
 
