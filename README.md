@@ -81,7 +81,7 @@
     <img src="https://img.shields.io/badge/-YouTube-0f0f0f?style=flat&amp;logo=youtube&amp;logoColor=f00905"/>
   </a>
   <a href="https://www.shutterstock.com/ru/g/Nick_StS">
-    <img src="https://img.shields.io/badge/-Shutterstock-f00905?style=flat&amp;logo=shutterstock&amp;logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Shutterstock-f00905?style=flat&amp;logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTggNWwxLjUtMmg1TDE2IDVoM2EyIDIgMCAwIDEgMiAydjExYTIgMiAwIDAgMS0yIDJINWEyIDIgMCAwIDEtMi0yVjdhMiAyIDAgMCAxIDItMmgzem00IDNhNSA1IDAgMSAwIDAgMTAgNSA1IDAgMCAwIDAtMTB6bTAgMmEzIDMgMCAxIDEgMCA2IDMgMyAwIDAgMSAwLTZ6Ii8%2BPC9zdmc%2B"/>
   </a>
 </p>
 
