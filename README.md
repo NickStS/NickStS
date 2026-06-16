@@ -9,20 +9,44 @@
 📷 I enjoy aerial photography, videography and traveling
 
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Technologies & Tools
+
+**Development**
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=1572B6)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+
+**AI & Computer Vision**
+
+![Ultralytics YOLO](https://img.shields.io/badge/-Ultralytics%20YOLO-05122A?style=flat&logo=ultralytics)&nbsp;
+![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)&nbsp;
+![TensorFlow Lite](https://img.shields.io/badge/-TensorFlow%20Lite-05122A?style=flat&logo=tensorflow)&nbsp;
+![CVAT](https://img.shields.io/badge/-CVAT-05122A?style=flat)&nbsp;
+
+**Frameworks & Data**
+
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+![REST API](https://img.shields.io/badge/-REST%20API-05122A?style=flat)&nbsp;
+
+**Software & Design**
+
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=androidstudio)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visualstudiocode&logoColor=007ACC)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20-05122A?style=flat&logo=visual-studio&logoColor=9c6ed0)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![YouTube](https://img.shields.io/badge/-YouTube-05122A?style=flat&logo=YouTube&logoColor=f00905)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobephotoshop)&nbsp;
+
+**UAV Technologies**
+
+![DJI Mobile SDK](https://img.shields.io/badge/-DJI%20Mobile%20SDK-05122A?style=flat&logo=dji)&nbsp;
+![UAV](https://img.shields.io/badge/-UAV%20Technologies-05122A?style=flat)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
