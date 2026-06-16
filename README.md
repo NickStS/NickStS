@@ -9,44 +9,23 @@
 📷 I enjoy aerial photography, videography and traveling
 
 
-### 🛠 &nbsp;Technologies & Tools
+### 🛠 &nbsp;Tech Stack
 
-**Development**
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=1572B6)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-
-**AI & Computer Vision**
-
-![Ultralytics YOLO](https://img.shields.io/badge/-Ultralytics%20YOLO-05122A?style=flat&logo=ultralytics)&nbsp;
-![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)&nbsp;
-![TensorFlow Lite](https://img.shields.io/badge/-TensorFlow%20Lite-05122A?style=flat&logo=tensorflow)&nbsp;
-![CVAT](https://img.shields.io/badge/-CVAT-05122A?style=flat)&nbsp;
-
-**Frameworks & Data**
-
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
-![REST API](https://img.shields.io/badge/-REST%20API-05122A?style=flat)&nbsp;
-
-**Software & Design**
-
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=androidstudio)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visualstudiocode&logoColor=007ACC)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobephotoshop)&nbsp;
-
-**UAV Technologies**
-
-![DJI Mobile SDK](https://img.shields.io/badge/-DJI%20Mobile%20SDK-05122A?style=flat&logo=dji)&nbsp;
-![UAV](https://img.shields.io/badge/-UAV%20Technologies-05122A?style=flat)&nbsp;
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python"/>
+  <img src="https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript"/>
+  <img src="https://img.shields.io/badge/HTML5-05122A?style=flat&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS3-05122A?style=flat&logo=css3&logoColor=1572B6"/>
+  <img src="https://img.shields.io/badge/YOLO-05122A?style=flat&logo=ultralytics"/>
+  <img src="https://img.shields.io/badge/OpenCV-05122A?style=flat&logo=opencv"/>
+  <img src="https://img.shields.io/badge/TensorFlow-05122A?style=flat&logo=tensorflow"/>
+  <img src="https://img.shields.io/badge/DJI_SDK-05122A?style=flat&logo=dji"/>
+  <img src="https://img.shields.io/badge/Git-05122A?style=flat&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github"/>
+  <img src="https://img.shields.io/badge/VS_Code-05122A?style=flat&logo=visualstudiocode&logoColor=007ACC"/>
+  <img src="https://img.shields.io/badge/Figma-05122A?style=flat&logo=figma"/>
+  <img src="https://img.shields.io/badge/Photoshop-05122A?style=flat&logo=adobephotoshop"/>
+</p>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
