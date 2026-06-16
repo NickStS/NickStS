@@ -12,19 +12,20 @@
 ### 🛠 &nbsp;Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python"/>
-  <img src="https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript"/>
-  <img src="https://img.shields.io/badge/HTML5-05122A?style=flat&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS3-05122A?style=flat&logo=css3&logoColor=1572B6"/>
-  <img src="https://img.shields.io/badge/YOLO-05122A?style=flat&logo=ultralytics"/>
-  <img src="https://img.shields.io/badge/OpenCV-05122A?style=flat&logo=opencv"/>
-  <img src="https://img.shields.io/badge/TensorFlow-05122A?style=flat&logo=tensorflow"/>
-  <img src="https://img.shields.io/badge/DJI_SDK-05122A?style=flat&logo=dji"/>
-  <img src="https://img.shields.io/badge/Git-05122A?style=flat&logo=git"/>
-  <img src="https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github"/>
-  <img src="https://img.shields.io/badge/VS_Code-05122A?style=flat&logo=visualstudiocode&logoColor=007ACC"/>
-  <img src="https://img.shields.io/badge/Figma-05122A?style=flat&logo=figma"/>
-  <img src="https://img.shields.io/badge/Photoshop-05122A?style=flat&logo=adobephotoshop"/>
+  <img height="38" src="https://skillicons.dev/icons?i=python,kotlin,java,cs,rust,js,html,css,androidstudio,tensorflow,opencv,flask,fastapi,mongodb,sqlite,docker,git,github,vscode,visualstudio,figma,ps,pr,unreal&perline=24" />
+  <br>
+  <img src="https://img.shields.io/badge/YOLOv8-05122A?style=flat&logo=ultralytics"/>
+  <img src="https://img.shields.io/badge/TensorFlow_Lite-05122A?style=flat&logo=tensorflow"/>
+  <img src="https://img.shields.io/badge/DJI_Mobile_SDK-05122A?style=flat"/>
+  <img src="https://img.shields.io/badge/Mapbox-05122A?style=flat&logo=mapbox"/>
+  <img src="https://img.shields.io/badge/MVVM-05122A?style=flat"/>
+  <img src="https://img.shields.io/badge/Minecraft_Forge-05122A?style=flat"/>
+  <img src="https://img.shields.io/badge/GeckoLib-05122A?style=flat"/>
+  <img src="https://img.shields.io/badge/WebODM-05122A?style=flat"/>
+  <img src="https://img.shields.io/badge/3ds_Max-05122A?style=flat&logo=autodesk"/>
+  <img src="https://img.shields.io/badge/Cinema_4D-05122A?style=flat"/>
+  <img src="https://img.shields.io/badge/Corona_Renderer-05122A?style=flat"/>
+  <img src="https://img.shields.io/badge/Redshift-05122A?style=flat"/>
 </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
